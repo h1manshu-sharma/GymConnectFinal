@@ -4,6 +4,6 @@ With its user-friendly interface, it seamlessly enables you to effortlessly trac
 Moreover, Gym Connect allows you to closely monitor your weight and body circumference progress, providing you with valuable insights.
 By automatically calculating your BMI and BMR based on your measurements and activity levels, it offers personalized guidance tailored to your specific needs.
 
-Install Flutter SDK
-Install ios Simulator
-run and debug from vs code
+- Install Flutter SDK
+- Install ios Simulator
+- run and debug from vs code
